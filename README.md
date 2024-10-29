@@ -3,6 +3,19 @@
 ### Web Interface para o Copiloto Corporativo "Prometheus" 🤖💼  
 Integração com API Middleware FastAPI | Construído com **React + Tailwind CSS**
 
+## 🔥 Sobre mim: 
+🔹 **Elias Andrade**  
+
+🌟 **Desenvolvedor Full Stack | Especialista em IA e Arquitetura de Sistemas**
+
+🔹 Experiência sólida em backend, frontend e IA, com projetos complexos em **React, FastAPI, Python** e **Node.js**. Atualmente focado na construção de copilotos inteligentes e chatbots corporativos com integração avançada de APIs.
+
+📌 **Conecte-se Comigo**  
+🔗 LinkedIn: [linkedin.com/in/itilmgf](https://www.linkedin.com/in/itilmgf/)  
+📱 WhatsApp: [+55 44 9 8859 7116](https://wa.me/5544988597116)
+
+💼 Vamos construir soluções juntos!
+
 ---
 
 [![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-blue?style=for-the-badge)](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface) ![React](https://img.shields.io/badge/react-18.2.0-61DAFB?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-v3.2.4-38B2AC?style=for-the-badge&logo=tailwindcss) ![FastAPI](https://img.shields.io/badge/fastapi-v0.78-009688?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-v18.0-green?style=for-the-badge&logo=node.js)
@@ -54,18 +67,6 @@ Integração com API Middleware FastAPI | Construído com **React + Tailwind CSS
 | **FastAPI**       | Middleware e API Gateway                     | ![FastAPI](https://img.shields.io/badge/fastapi-009688?logo=fastapi) |
 | **Node.js**       | Ambiente para execução do backend            | ![Node.js](https://img.shields.io/badge/node.js-339933?logo=node.js) |
 
----
-
-🌟 **Desenvolvedor Full Stack | Especialista em IA e Arquitetura de Sistemas**
-
-🔹 **Elias Andrade**  
-🔹 Experiência sólida em backend, frontend e IA, com projetos complexos em **React, FastAPI, Python** e **Node.js**. Atualmente focado na construção de copilotos inteligentes e chatbots corporativos com integração avançada de APIs.
-
-📌 **Conecte-se Comigo**  
-🔗 LinkedIn: [linkedin.com/in/itilmgf](https://www.linkedin.com/in/itilmgf/)  
-📱 WhatsApp: [+55 44 9 8859 7116](https://wa.me/5544988597116)
-
-💼 Vamos construir soluções juntos!
 
 ---
 
