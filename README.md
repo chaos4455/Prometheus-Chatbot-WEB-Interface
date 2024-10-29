@@ -117,17 +117,21 @@ npm install
 npm run dev
 ```
 
-## Documentação
+## 📄 Documentação
 
-- [Arquitetura](./ARCHITECTURE.md)
-- [Changelog](./CHANGELOG.md)
-- [Contribuição](./CONTRIBUTING.md)
-- [Implantação](./DEPLOYMENT.md)
-- [Desenvolvimento](./DEVELOPMENT.md)
-- [Produto](./PRODUCT.md)
-- [Segurança](./SECURITY.md)
-- [Sistema](./SYSTEM.md)
-- [Versão](./VERSION.md)
+Acesse os principais documentos do projeto na pasta `docs` para entender melhor a arquitetura, desenvolvimento e outros detalhes fundamentais:
+
+- [📐 Arquitetura](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/ARCHITECTURE.md)
+- [📝 Changelog](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/CHANGELOG.md)
+- [🤝 Contribuição](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/CONTRIBUTING.md)
+- [🚀 Implantação](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/DEPLOYMENT.md)
+- [🛠️ Desenvolvimento](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/DEVELOPMENT.md)
+- [📦 Produto](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/PRODUCT.md)
+- [🔒 Segurança](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/SECURITY.md)
+- [⚙️ Sistema](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/SYSTEM.md)
+- [🆙 Versão](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface/blob/main/docs/VERSION.md)
+
+Explore cada documento para obter detalhes completos sobre a configuração e o desenvolvimento do Prometheus Chatbot Interface!
 
 ## Roadmap
 
