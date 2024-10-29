@@ -7,6 +7,9 @@ Integração com API Middleware FastAPI | Construído com **React + Tailwind CSS
 
 [![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-blue?style=for-the-badge)](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface) ![React](https://img.shields.io/badge/react-18.2.0-61DAFB?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-v3.2.4-38B2AC?style=for-the-badge&logo=tailwindcss) ![FastAPI](https://img.shields.io/badge/fastapi-v0.78-009688?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-v18.0-green?style=for-the-badge&logo=node.js)
 
+![chrome_U5eS7lri0f](https://github.com/user-attachments/assets/8b94670d-a8db-4568-9787-926fc6ff6e6d)
+
+
 ---
 
 ## 📝 Sobre o Projeto
