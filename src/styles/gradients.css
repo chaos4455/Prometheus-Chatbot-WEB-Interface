@@ -1,0 +1,58 @@
+.gradient-primary {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+}
+
+.gradient-secondary {
+  background: linear-gradient(135deg, #064e3b 0%, #065f46 100%);
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #047857 0%, #059669 100%);
+}
+
+.gradient-dark {
+  background: linear-gradient(135deg, #111827 0%, #1f2937 100%);
+}
+
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+}
+
+.gradient-border {
+  border: double 1px transparent;
+  background-image: linear-gradient(#1f2937, #1f2937), 
+                    linear-gradient(135deg, #059669 0%, #10b981 100%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+.glass-morphism {
+  background: rgba(31, 41, 55, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.chat-frame {
+  max-width: 4xl;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 1rem;
+  background: rgba(31, 41, 55, 0.5);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 3s ease infinite;
+}
