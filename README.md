@@ -20,6 +20,9 @@ Integração com API Middleware FastAPI | Construído com **React + Tailwind CSS
 
 Estou desenvolvendo uma série de projetos em Inteligência Artificial e chatbots que abrangem toda a arquitetura, do back-end ao front-end. Este vídeo traz uma demonstração do **Prometheus Replika IA**, uma interface chatbot corporativa com funcionalidades avançadas para automação e suporte copilot. Confira como estamos inovando em soluções de IA para empresas!
 
+Clique abaixo para ver o vídeo.
+
+
 [![Apresentação Prometheus Replika IA - Interface Chatbot Corporativo e Copilot](https://img.youtube.com/vi/I4QRiRjX9uY/0.jpg)](https://www.youtube.com/watch?v=I4QRiRjX9uY)
 
 ---
