@@ -16,6 +16,12 @@ Integração com API Middleware FastAPI | Construído com **React + Tailwind CSS
 
 💼 Vamos construir soluções juntos!
 
+## 🎬 Apresentação do Projeto Prometheus - Interface Chatbot Corporativo e Copilot
+
+Estou desenvolvendo uma série de projetos em Inteligência Artificial e chatbots que abrangem toda a arquitetura, do back-end ao front-end. Este vídeo traz uma demonstração do **Prometheus Replika IA**, uma interface chatbot corporativa com funcionalidades avançadas para automação e suporte copilot. Confira como estamos inovando em soluções de IA para empresas!
+
+[![Apresentação Prometheus Replika IA - Interface Chatbot Corporativo e Copilot](https://img.youtube.com/vi/I4QRiRjX9uY/0.jpg)](https://www.youtube.com/watch?v=I4QRiRjX9uY)
+
 ---
 
 [![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-blue?style=for-the-badge)](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface) ![React](https://img.shields.io/badge/react-18.2.0-61DAFB?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-v3.2.4-38B2AC?style=for-the-badge&logo=tailwindcss) ![FastAPI](https://img.shields.io/badge/fastapi-v0.78-009688?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-v18.0-green?style=for-the-badge&logo=node.js)
